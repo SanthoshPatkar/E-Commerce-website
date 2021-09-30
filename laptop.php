@@ -1,0 +1,9 @@
+<?php
+include('header.php');
+?>
+<?php
+include('template/lap_product.php');
+?>
+<?php
+include('footer.php');
+?>
